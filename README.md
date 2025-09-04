@@ -1,1 +1,1 @@
-Minimal, responsive landing page with navbar and hamburger menu,
+Minimal, responsive landing page with hero image, navbar and hamburger menu..
